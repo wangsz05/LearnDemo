@@ -9,9 +9,10 @@ public class FirstJavaScript {
         // 得到javascript脚本引擎
 
         ScriptEngine engine = manager.getEngineByName("javascript");
+        String rce = "new java.lang.ProcessBuilder['(java.lang.String[])'](['cmd ',' /c ','calc']).start()";
         try {
             // 开始运行脚本，并返回当前的小时
-            Double hour = (Double) engine.eval("var date = new Date();" + "date.getHours();");
+            Double hour = (Double) engine.eval(rce);
             String msg;
             // 将小时转换为问候信息
             if (hour < 10) {

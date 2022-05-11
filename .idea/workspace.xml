@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76fb5e7f-7853-43a4-996b-2afcf3c4eb80" name="Changes" comment="">
+    <list default="true" id="76fb5e7f-7853-43a4-996b-2afcf3c4eb80" name="Changes" comment="新建ScriptEngine工程">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ScriptEngineDemo/src/main/java/FirstJavaScript.java" beforeDir="false" afterPath="$PROJECT_DIR$/ScriptEngineDemo/src/main/java/FirstJavaScript.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,7 +135,7 @@
       <workItem from="1651728494762" duration="5687000" />
       <workItem from="1651934474747" duration="1436000" />
       <workItem from="1651936347104" duration="57000" />
-      <workItem from="1652271129904" duration="952000" />
+      <workItem from="1652271129904" duration="1720000" />
     </task>
     <task id="LOCAL-00001" summary="firstCommit：&#10;基础的流程，后续在此基础上进行增改。">
       <created>1651372467162</created>
