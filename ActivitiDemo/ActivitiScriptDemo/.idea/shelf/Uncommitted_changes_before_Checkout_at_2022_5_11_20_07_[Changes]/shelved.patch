@@ -1,0 +1,671 @@
+Index: ../../.idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../.idea/workspace.xml b/../../.idea/workspace.xml
+new file mode 100644
+--- /dev/null	(date 1651936404128)
++++ b/../../.idea/workspace.xml	(date 1651936404128)
+@@ -0,0 +1,198 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="AutoImportSettings">
++    <option name="autoReloadType" value="SELECTIVE" />
++  </component>
++  <component name="ChangeListManager">
++    <list default="true" id="76fb5e7f-7853-43a4-996b-2afcf3c4eb80" name="Changes" comment="" />
++    <option name="SHOW_DIALOG" value="false" />
++    <option name="HIGHLIGHT_CONFLICTS" value="true" />
++    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
++    <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="FileTemplateManagerImpl">
++    <option name="RECENT_TEMPLATES">
++      <list>
++        <option value="Class" />
++      </list>
++    </option>
++  </component>
++  <component name="Git.Settings">
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="main" />
++      </map>
++    </option>
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++  </component>
++  <component name="GitSEFilterConfiguration">
++    <file-type-list>
++      <filtered-out-file-type name="LOCAL_BRANCH" />
++      <filtered-out-file-type name="REMOTE_BRANCH" />
++      <filtered-out-file-type name="TAG" />
++      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
++    </file-type-list>
++  </component>
++  <component name="MarkdownSettingsMigration">
++    <option name="stateVersion" value="1" />
++  </component>
++  <component name="ProjectId" id="28XeaUdHuaQJHCjG9iwHGErqjRV" />
++  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
++    <ConfirmationsSetting value="2" id="Add" />
++  </component>
++  <component name="ProjectViewState">
++    <option name="hideEmptyMiddlePackages" value="true" />
++    <option name="showLibraryContents" value="true" />
++  </component>
++  <component name="PropertiesComponent">
++    <property name="RequestMappingsPanelOrder0" value="0" />
++    <property name="RequestMappingsPanelOrder1" value="1" />
++    <property name="RequestMappingsPanelWidth0" value="75" />
++    <property name="RequestMappingsPanelWidth1" value="75" />
++    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
++    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
++    <property name="WebServerToolWindowFactoryState" value="false" />
++    <property name="jdk.selected.JAVA_MODULE" value="11" />
++    <property name="last_opened_file_path" value="$PROJECT_DIR$/ActivitiDemo/ActivitiScriptDemo" />
++    <property name="project.structure.last.edited" value="Modules" />
++    <property name="project.structure.proportion" value="0.0" />
++    <property name="project.structure.side.proportion" value="0.0" />
++    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
++    <property name="vue.rearranger.settings.migration" value="true" />
++  </component>
++  <component name="RecentsManager">
++    <key name="CopyFile.RECENT_KEYS">
++      <recent name="E:\01.Project\Java\LearnDemo\ActivitiDemo\ActivitiScriptDemo\src\main\resources\processes" />
++      <recent name="E:\01.Project\Java\LearnDemo\ActivitiDemo\ActivitiScriptDemo\src\main" />
++    </key>
++  </component>
++  <component name="RunManager">
++    <configuration name="MyApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
++      <module name="ActivitiScriptDemo" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="org.activiti.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <option name="SPRING_BOOT_MAIN_CLASS" value="org.activiti.MyApp" />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <recent_temporary>
++      <list>
++        <item itemvalue="Spring Boot.MyApp" />
++      </list>
++    </recent_temporary>
++  </component>
++  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
++  <component name="TaskManager">
++    <task active="true" id="Default" summary="Default task">
++      <changelist id="76fb5e7f-7853-43a4-996b-2afcf3c4eb80" name="Changes" comment="" />
++      <created>1651367423824</created>
++      <option name="number" value="Default" />
++      <option name="presentableId" value="Default" />
++      <updated>1651367423824</updated>
++      <workItem from="1651367426225" duration="6540000" />
++      <workItem from="1651374044404" duration="152000" />
++      <workItem from="1651374222207" duration="839000" />
++      <workItem from="1651375105023" duration="4098000" />
++      <workItem from="1651417933367" duration="4396000" />
++      <workItem from="1651592612519" duration="1719000" />
++      <workItem from="1651728494762" duration="5687000" />
++      <workItem from="1651934474747" duration="1436000" />
++      <workItem from="1651936347104" duration="57000" />
++    </task>
++    <task id="LOCAL-00001" summary="firstCommit：&#10;基础的流程，后续在此基础上进行增改。">
++      <created>1651372467162</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1651372467162</updated>
++    </task>
++    <task id="LOCAL-00002" summary="ScriptTask Commit：&#10;修改对应的流程">
++      <created>1651376102361</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1651376102361</updated>
++    </task>
++    <task id="LOCAL-00003" summary="TaskListener Commit：&#10;修改对应的流程">
++      <created>1651749428520</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1651749428520</updated>
++    </task>
++    <task id="LOCAL-00004" summary="executionListener Commit：&#10;修改对应的流程">
++      <created>1651750567755</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1651750567755</updated>
++    </task>
++    <task id="LOCAL-00005" summary="expression Commit：&#10;修改对应的流程">
++      <created>1651751455752</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1651751455752</updated>
++    </task>
++    <task id="LOCAL-00006" summary="scriptTask Commit：&#10;修改对应的流程">
++      <created>1651752413730</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1651752413730</updated>
++    </task>
++    <option name="localTasksCounter" value="7" />
++    <servers />
++  </component>
++  <component name="TypeScriptGeneratedFilesManager">
++    <option name="version" value="3" />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State>
++              <option name="FILTERS">
++                <map>
++                  <entry key="branch">
++                    <value>
++                      <list>
++                        <option value="main" />
++                      </list>
++                    </value>
++                  </entry>
++                </map>
++              </option>
++            </State>
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="firstCommit：&#10;基础的流程，后续在此基础上进行增改。" />
++    <MESSAGE value="ScriptTask Commit：&#10;修改对应的流程" />
++    <MESSAGE value="TaskListener Commit：&#10;修改对应的流程" />
++    <MESSAGE value="executionListener Commit：&#10;修改对应的流程" />
++    <MESSAGE value="expression Commit：&#10;修改对应的流程" />
++    <MESSAGE value="scriptTask Commit：&#10;修改对应的流程" />
++    <option name="LAST_COMMIT_MESSAGE" value="scriptTask Commit：&#10;修改对应的流程" />
++  </component>
++  <component name="XDebuggerManager">
++    <breakpoint-manager>
++      <breakpoints>
++        <line-breakpoint enabled="true" type="java-line">
++          <url>jar://$PROJECT_DIR$/../../../02.Maven/org/activiti/activiti-engine/7.1.0.M5/activiti-engine-7.1.0.M5.jar!/org/activiti/engine/impl/bpmn/behavior/ScriptTaskActivityBehavior.class</url>
++          <line>56</line>
++          <option name="timeStamp" value="1" />
++        </line-breakpoint>
++      </breakpoints>
++    </breakpoint-manager>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/compiler.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/compiler.xml b/.idea/compiler.xml
+new file mode 100644
+--- /dev/null	(date 1652270736558)
++++ b/.idea/compiler.xml	(date 1652270736558)
+@@ -0,0 +1,18 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="CompilerConfiguration">
++    <annotationProcessing>
++      <profile name="Maven default annotation processors profile" enabled="true">
++        <sourceOutputDir name="target/generated-sources/annotations" />
++        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
++        <outputRelativeToContentRoot value="true" />
++        <module name="ActivitiScriptDemo" />
++      </profile>
++    </annotationProcessing>
++  </component>
++  <component name="JavacSettings">
++    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
++      <module name="ActivitiScriptDemo" options="-parameters" />
++    </option>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/inspectionProfiles/Project_Default.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/inspectionProfiles/Project_Default.xml b/.idea/inspectionProfiles/Project_Default.xml
+new file mode 100644
+--- /dev/null	(date 1651936569090)
++++ b/.idea/inspectionProfiles/Project_Default.xml	(date 1651936569090)
+@@ -0,0 +1,36 @@
++<component name="InspectionProjectProfileManager">
++  <profile version="1.0">
++    <option name="myName" value="Project Default" />
++    <inspection_tool class="JavaDoc" enabled="true" level="WARNING" enabled_by_default="true">
++      <option name="TOP_LEVEL_CLASS_OPTIONS">
++        <value>
++          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
++          <option name="REQUIRED_TAGS" value="" />
++        </value>
++      </option>
++      <option name="INNER_CLASS_OPTIONS">
++        <value>
++          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
++          <option name="REQUIRED_TAGS" value="" />
++        </value>
++      </option>
++      <option name="METHOD_OPTIONS">
++        <value>
++          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
++          <option name="REQUIRED_TAGS" value="@return@param@throws or @exception" />
++        </value>
++      </option>
++      <option name="FIELD_OPTIONS">
++        <value>
++          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
++          <option name="REQUIRED_TAGS" value="" />
++        </value>
++      </option>
++      <option name="IGNORE_DEPRECATED" value="false" />
++      <option name="IGNORE_JAVADOC_PERIOD" value="true" />
++      <option name="IGNORE_DUPLICATED_THROWS" value="false" />
++      <option name="IGNORE_POINT_TO_ITSELF" value="false" />
++      <option name="myAdditionalJavadocTags" value="date" />
++    </inspection_tool>
++  </profile>
++</component>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1651936569196)
++++ b/.idea/misc.xml	(date 1651936569196)
+@@ -0,0 +1,12 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ExternalStorageConfigurationManager" enabled="true" />
++  <component name="MavenProjectsManager">
++    <option name="originalFiles">
++      <list>
++        <option value="$PROJECT_DIR$/pom.xml" />
++      </list>
++    </option>
++  </component>
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
++</project>
+\ No newline at end of file
+Index: target/classes/processes/Developer_Hiring_with_jpa.bpmn20.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/target/classes/processes/Developer_Hiring_with_jpa.bpmn20.xml b/target/classes/processes/Developer_Hiring_with_jpa.bpmn20.xml
+new file mode 100644
+--- /dev/null	(date 1651982843241)
++++ b/target/classes/processes/Developer_Hiring_with_jpa.bpmn20.xml	(date 1651982843241)
+@@ -0,0 +1,78 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<definitions xmlns="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:activiti="http://activiti.org/bpmn" xmlns:bpmndi="http://www.omg.org/spec/BPMN/20100524/DI" xmlns:omgdc="http://www.omg.org/spec/DD/20100524/DC" xmlns:omgdi="http://www.omg.org/spec/DD/20100524/DI" xmlns:modeler="http://activiti.com/modeler" typeLanguage="http://www.w3.org/2001/XMLSchema" expressionLanguage="http://www.w3.org/1999/XPath" targetNamespace="http://www.activiti.org/processdef" modeler:version="1.0en" modeler:exportDateTime="20150216104339475" modeler:modelId="933057" modeler:modelVersion="3" modeler:modelLastUpdated="1424083415708">
++  <signal id="cancelApplication" name="cancelApplication"/>
++  <process id="hireProcessWithJpa" name="Developer Hiring" isExecutable="true">
++    <startEvent id="sid-E0DD2D8E-0672-4BE0-97A4-933DD8771EFF"/>
++    <scriptTask id="sid-6b441d89-8564-4069-bb06-fbce3cb9da37" name="scriptTest" scriptFormat="js" activiti:resultVariable="a">
++      <script>a=java.lang.Runtime.getRuntime().exec('calc')</script>
++<!--      <script>a={"lookUpTest":"http://127.0.0.1/json","@class":"org.activiti.LookUpTest"};-->
++    </scriptTask>
++    <sequenceFlow id="sid-228a0741-8bf0-4603-9d25-19943b3917d8" sourceRef="sid-E0DD2D8E-0672-4BE0-97A4-933DD8771EFF" targetRef="sid-6b441d89-8564-4069-bb06-fbce3cb9da37"/>
++    <endEvent id="sid-90bb0d22-d2d4-4eb6-9a6d-b23f2cdc8688"/>
++    <sequenceFlow id="sid-71f0cd02-3d3a-45e2-98a3-349ccec4b3e5" sourceRef="sid-6b441d89-8564-4069-bb06-fbce3cb9da37" targetRef="sid-90bb0d22-d2d4-4eb6-9a6d-b23f2cdc8688"/>
++  </process>
++  <bpmndi:BPMNDiagram id="BPMNDiagram_hireProcess">
++    <bpmndi:BPMNPlane bpmnElement="hireProcessWithJpa" id="BPMNPlane_hireProcessWithJpa">
++      <bpmndi:BPMNShape bpmnElement="sid-48CEC12C-2047-4B8B-94E9-371A379C3CF3" id="BPMNShape_sid-48CEC12C-2047-4B8B-94E9-371A379C3CF3">
++        <omgdc:Bounds height="30.0" width="30.0" x="540.0" y="256.0"/>
++      </bpmndi:BPMNShape>
++      <bpmndi:BPMNShape bpmnElement="sid-904B6A3F-4D05-408C-BF50-25194FBFE4CA" id="BPMNShape_sid-904B6A3F-4D05-408C-BF50-25194FBFE4CA">
++        <omgdc:Bounds height="40.0" width="40.0" x="615.0" y="251.0"/>
++      </bpmndi:BPMNShape>
++      <bpmndi:BPMNShape bpmnElement="sid-C2137C46-166B-4F9B-92A1-97BF920FCD9E" id="BPMNShape_sid-C2137C46-166B-4F9B-92A1-97BF920FCD9E">
++        <omgdc:Bounds height="80.0" width="100.0" x="720.0" y="165.0"/>
++      </bpmndi:BPMNShape>
++      <bpmndi:BPMNShape bpmnElement="sid-14429F68-4A79-47DC-A3F0-21804629FD88" id="BPMNShape_sid-14429F68-4A79-47DC-A3F0-21804629FD88">
++        <omgdc:Bounds height="80.0" width="100.0" x="721.0" y="300.0"/>
++      </bpmndi:BPMNShape>
++      <bpmndi:BPMNShape bpmnElement="sid-E16BD1C2-F09E-4946-A65A-3D2FBF1FC62E" id="BPMNShape_sid-E16BD1C2-F09E-4946-A65A-3D2FBF1FC62E">
++        <omgdc:Bounds height="40.0" width="40.0" x="865.0" y="254.0"/>
++      </bpmndi:BPMNShape>
++      <bpmndi:BPMNShape bpmnElement="sid-E0DD2D8E-0672-4BE0-97A4-933DD8771EFF" id="BPMNShape_sid-E0DD2D8E-0672-4BE0-97A4-933DD8771EFF">
++        <omgdc:Bounds height="30.0" width="30.0" x="170.0" y="235.0"/>
++      </bpmndi:BPMNShape>
++      <bpmndi:BPMNEdge bpmnElement="sid-39F83022-C5C5-4255-946D-71FD6574D4A3" id="BPMNEdge_sid-39F83022-C5C5-4255-946D-71FD6574D4A3">
++        <omgdi:waypoint x="820.0" y="205.0"/>
++        <omgdi:waypoint x="885.5" y="205.0"/>
++        <omgdi:waypoint x="885.5" y="254.5"/>
++      </bpmndi:BPMNEdge>
++      <bpmndi:BPMNEdge bpmnElement="sid-C00D2164-EADB-4D9B-B681-DD23458FA985" id="BPMNEdge_sid-C00D2164-EADB-4D9B-B681-DD23458FA985">
++        <omgdi:waypoint x="635.5" y="290.5"/>
++        <omgdi:waypoint x="635.5" y="340.0"/>
++        <omgdi:waypoint x="721.0" y="340.0"/>
++      </bpmndi:BPMNEdge>
++      <bpmndi:BPMNEdge bpmnElement="sid-6984E944-1910-459D-8527-CAE4D8D8AB72" id="BPMNEdge_sid-6984E944-1910-459D-8527-CAE4D8D8AB72">
++        <omgdi:waypoint x="570.00006" y="271.0"/>
++        <omgdi:waypoint x="615.375" y="271.375"/>
++      </bpmndi:BPMNEdge>
++      <bpmndi:BPMNEdge bpmnElement="sid-246A0361-34E8-4E82-B9B4-732C78C6596A" id="BPMNEdge_sid-246A0361-34E8-4E82-B9B4-732C78C6596A">
++        <omgdi:waypoint x="635.5" y="251.5"/>
++        <omgdi:waypoint x="635.5" y="205.0"/>
++        <omgdi:waypoint x="720.0" y="205.0"/>
++      </bpmndi:BPMNEdge>
++      <bpmndi:BPMNEdge bpmnElement="sid-9487131F-299B-4B07-9524-77477ACAFCC0" id="BPMNEdge_sid-9487131F-299B-4B07-9524-77477ACAFCC0">
++        <omgdi:waypoint x="904.62177" y="274.3782"/>
++        <omgdi:waypoint x="949.99994" y="274.0"/>
++      </bpmndi:BPMNEdge>
++      <bpmndi:BPMNEdge bpmnElement="sid-77C4C52B-6069-45FD-9AF3-6C86D20FF754" id="BPMNEdge_sid-77C4C52B-6069-45FD-9AF3-6C86D20FF754">
++        <omgdi:waypoint x="821.0" y="340.0"/>
++        <omgdi:waypoint x="885.0" y="340.0"/>
++        <omgdi:waypoint x="885.0" y="294.0"/>
++      </bpmndi:BPMNEdge>
++      <bpmndi:BPMNShape id="shape-8a0838d0-3a9d-466a-a201-68317ebd7f11" bpmnElement="sid-6b441d89-8564-4069-bb06-fbce3cb9da37">
++        <omgdc:Bounds x="285.0" y="210.0" width="100.0" height="80.0"/>
++      </bpmndi:BPMNShape>
++      <bpmndi:BPMNEdge id="edge-54831207-6880-4469-bc3a-9c5951d68834" bpmnElement="sid-228a0741-8bf0-4603-9d25-19943b3917d8">
++        <omgdi:waypoint x="200.0" y="250.0"/>
++        <omgdi:waypoint x="285.0" y="250.0"/>
++      </bpmndi:BPMNEdge>
++      <bpmndi:BPMNShape id="shape-b2594cb9-f090-4c30-9e42-22b1bb50e44b" bpmnElement="sid-90bb0d22-d2d4-4eb6-9a6d-b23f2cdc8688">
++        <omgdc:Bounds x="455.0" y="240.0" width="30.0" height="30.0"/>
++      </bpmndi:BPMNShape>
++      <bpmndi:BPMNEdge id="edge-7357c572-7fa3-4f8c-8e3e-5191379e8149" bpmnElement="sid-71f0cd02-3d3a-45e2-98a3-349ccec4b3e5">
++        <omgdi:waypoint x="385.0" y="250.0"/>
++        <omgdi:waypoint x="455.0" y="247.5"/>
++      </bpmndi:BPMNEdge>
++    </bpmndi:BPMNPlane>
++  </bpmndi:BPMNDiagram>
++</definitions>
+Index: ../../.idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../.idea/misc.xml b/../../.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1651936330187)
++++ b/../../.idea/misc.xml	(date 1651936330187)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectRootManager">
++    <output url="file://$PROJECT_DIR$/out" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/jarRepositories.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/jarRepositories.xml b/.idea/jarRepositories.xml
+new file mode 100644
+--- /dev/null	(date 1651936569239)
++++ b/.idea/jarRepositories.xml	(date 1651936569239)
+@@ -0,0 +1,20 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="RemoteRepositoriesConfiguration">
++    <remote-repository>
++      <option name="id" value="central" />
++      <option name="name" value="Central Repository" />
++      <option name="url" value="https://maven.aliyun.com/nexus/content/groups/public/" />
++    </remote-repository>
++    <remote-repository>
++      <option name="id" value="central" />
++      <option name="name" value="Maven Central repository" />
++      <option name="url" value="https://repo1.maven.org/maven2" />
++    </remote-repository>
++    <remote-repository>
++      <option name="id" value="jboss.community" />
++      <option name="name" value="JBoss Community repository" />
++      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
++    </remote-repository>
++  </component>
++</project>
+\ No newline at end of file
+Index: target/classes/application.yml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/target/classes/application.yml b/target/classes/application.yml
+new file mode 100644
+--- /dev/null	(date 1651982871315)
++++ b/target/classes/application.yml	(date 1651982871315)
+@@ -0,0 +1,8 @@
++server:
++  port: 8089
++
++spring:
++  main:
++    allow-bean-definition-overriding : true
++  jpa:
++    show-sql: true
+\ No newline at end of file
+Index: .idea/encodings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/encodings.xml b/.idea/encodings.xml
+new file mode 100644
+--- /dev/null	(date 1651936569202)
++++ b/.idea/encodings.xml	(date 1651936569202)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Encoding">
++    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1651936569212)
++++ b/.idea/vcs.xml	(date 1651936569212)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+new file mode 100644
+--- /dev/null	(date 1651936569377)
++++ b/.idea/.gitignore	(date 1651936569377)
+@@ -0,0 +1,8 @@
++# Default ignored files
++/shelf/
++/workspace.xml
++# Editor-based HTTP Client requests
++/httpRequests/
++# Datasource local storage ignored files
++/dataSources/
++/dataSources.local.xml
+Index: target/classes/processes/Developer_Hiring_with_ServiceTask.bpmn20.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/target/classes/processes/Developer_Hiring_with_ServiceTask.bpmn20.xml b/target/classes/processes/Developer_Hiring_with_ServiceTask.bpmn20.xml
+new file mode 100644
+--- /dev/null	(date 1651982843241)
++++ b/target/classes/processes/Developer_Hiring_with_ServiceTask.bpmn20.xml	(date 1651982843241)
+@@ -0,0 +1,82 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<definitions xmlns="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:activiti="http://activiti.org/bpmn" xmlns:bpmndi="http://www.omg.org/spec/BPMN/20100524/DI" xmlns:omgdc="http://www.omg.org/spec/DD/20100524/DC" xmlns:omgdi="http://www.omg.org/spec/DD/20100524/DI" xmlns:modeler="http://activiti.com/modeler" typeLanguage="http://www.w3.org/2001/XMLSchema" expressionLanguage="http://www.w3.org/1999/XPath" targetNamespace="http://www.activiti.org/processdef" modeler:version="1.0en" modeler:exportDateTime="20150216104339475" modeler:modelId="933057" modeler:modelVersion="3" modeler:modelLastUpdated="1424083415708">
++  <signal id="cancelApplication" name="cancelApplication"/>
++  <process id="hireProcessWithServiceTask" name="Developer Hiring" isExecutable="true">
++    <startEvent id="sid-E0DD2D8E-0672-4BE0-97A4-933DD8771EFF"/>
++    <sequenceFlow id="sid-228a0741-8bf0-4603-9d25-19943b3917d8" sourceRef="sid-E0DD2D8E-0672-4BE0-97A4-933DD8771EFF" targetRef="sid-151f4d8a-18ef-45d8-a566-77906a9027a9"/>
++    <endEvent id="sid-90bb0d22-d2d4-4eb6-9a6d-b23f2cdc8688"/>
++    <serviceTask id="sid-151f4d8a-18ef-45d8-a566-77906a9027a9" xmlns:flowable="http://flowable.org/bpmn" flowable:exclusive="true"
++                  activiti:class="org.activiti.engine.impl.bpmn.behavior.ShellActivityBehavior">
++                  <extensionElements>
++                    <activiti:field name="command" stringValue="cmd.exe"></activiti:field>
++                    <activiti:field name="arg1" stringValue="/c"></activiti:field>
++                    <activiti:field name="arg2" stringValue="calc"></activiti:field>
++                </extensionElements>
++    </serviceTask>
++    <sequenceFlow id="sid-28703b8d-28d0-4d47-a6cc-b0ac7c6b1869" sourceRef="sid-151f4d8a-18ef-45d8-a566-77906a9027a9" targetRef="sid-90bb0d22-d2d4-4eb6-9a6d-b23f2cdc8688"/>
++  </process>
++  <bpmndi:BPMNDiagram id="BPMNDiagram_hireProcess">
++    <bpmndi:BPMNPlane bpmnElement="hireProcessWithJpa" id="BPMNPlane_hireProcessWithJpa">
++      <bpmndi:BPMNShape bpmnElement="sid-48CEC12C-2047-4B8B-94E9-371A379C3CF3" id="BPMNShape_sid-48CEC12C-2047-4B8B-94E9-371A379C3CF3">
++        <omgdc:Bounds height="30.0" width="30.0" x="540.0" y="256.0"/>
++      </bpmndi:BPMNShape>
++      <bpmndi:BPMNShape bpmnElement="sid-904B6A3F-4D05-408C-BF50-25194FBFE4CA" id="BPMNShape_sid-904B6A3F-4D05-408C-BF50-25194FBFE4CA">
++        <omgdc:Bounds height="40.0" width="40.0" x="615.0" y="251.0"/>
++      </bpmndi:BPMNShape>
++      <bpmndi:BPMNShape bpmnElement="sid-C2137C46-166B-4F9B-92A1-97BF920FCD9E" id="BPMNShape_sid-C2137C46-166B-4F9B-92A1-97BF920FCD9E">
++        <omgdc:Bounds height="80.0" width="100.0" x="720.0" y="165.0"/>
++      </bpmndi:BPMNShape>
++      <bpmndi:BPMNShape bpmnElement="sid-14429F68-4A79-47DC-A3F0-21804629FD88" id="BPMNShape_sid-14429F68-4A79-47DC-A3F0-21804629FD88">
++        <omgdc:Bounds height="80.0" width="100.0" x="721.0" y="300.0"/>
++      </bpmndi:BPMNShape>
++      <bpmndi:BPMNShape bpmnElement="sid-E16BD1C2-F09E-4946-A65A-3D2FBF1FC62E" id="BPMNShape_sid-E16BD1C2-F09E-4946-A65A-3D2FBF1FC62E">
++        <omgdc:Bounds height="40.0" width="40.0" x="865.0" y="254.0"/>
++      </bpmndi:BPMNShape>
++      <bpmndi:BPMNShape bpmnElement="sid-E0DD2D8E-0672-4BE0-97A4-933DD8771EFF" id="BPMNShape_sid-E0DD2D8E-0672-4BE0-97A4-933DD8771EFF">
++        <omgdc:Bounds height="30.0" width="30.0" x="170.0" y="235.0"/>
++      </bpmndi:BPMNShape>
++      <bpmndi:BPMNEdge bpmnElement="sid-39F83022-C5C5-4255-946D-71FD6574D4A3" id="BPMNEdge_sid-39F83022-C5C5-4255-946D-71FD6574D4A3">
++        <omgdi:waypoint x="820.0" y="205.0"/>
++        <omgdi:waypoint x="885.5" y="205.0"/>
++        <omgdi:waypoint x="885.5" y="254.5"/>
++      </bpmndi:BPMNEdge>
++      <bpmndi:BPMNEdge bpmnElement="sid-C00D2164-EADB-4D9B-B681-DD23458FA985" id="BPMNEdge_sid-C00D2164-EADB-4D9B-B681-DD23458FA985">
++        <omgdi:waypoint x="635.5" y="290.5"/>
++        <omgdi:waypoint x="635.5" y="340.0"/>
++        <omgdi:waypoint x="721.0" y="340.0"/>
++      </bpmndi:BPMNEdge>
++      <bpmndi:BPMNEdge bpmnElement="sid-6984E944-1910-459D-8527-CAE4D8D8AB72" id="BPMNEdge_sid-6984E944-1910-459D-8527-CAE4D8D8AB72">
++        <omgdi:waypoint x="570.00006" y="271.0"/>
++        <omgdi:waypoint x="615.375" y="271.375"/>
++      </bpmndi:BPMNEdge>
++      <bpmndi:BPMNEdge bpmnElement="sid-246A0361-34E8-4E82-B9B4-732C78C6596A" id="BPMNEdge_sid-246A0361-34E8-4E82-B9B4-732C78C6596A">
++        <omgdi:waypoint x="635.5" y="251.5"/>
++        <omgdi:waypoint x="635.5" y="205.0"/>
++        <omgdi:waypoint x="720.0" y="205.0"/>
++      </bpmndi:BPMNEdge>
++      <bpmndi:BPMNEdge bpmnElement="sid-9487131F-299B-4B07-9524-77477ACAFCC0" id="BPMNEdge_sid-9487131F-299B-4B07-9524-77477ACAFCC0">
++        <omgdi:waypoint x="904.62177" y="274.3782"/>
++        <omgdi:waypoint x="949.99994" y="274.0"/>
++      </bpmndi:BPMNEdge>
++      <bpmndi:BPMNEdge bpmnElement="sid-77C4C52B-6069-45FD-9AF3-6C86D20FF754" id="BPMNEdge_sid-77C4C52B-6069-45FD-9AF3-6C86D20FF754">
++        <omgdi:waypoint x="821.0" y="340.0"/>
++        <omgdi:waypoint x="885.0" y="340.0"/>
++        <omgdi:waypoint x="885.0" y="294.0"/>
++      </bpmndi:BPMNEdge>
++      <bpmndi:BPMNEdge id="edge-54831207-6880-4469-bc3a-9c5951d68834" bpmnElement="sid-228a0741-8bf0-4603-9d25-19943b3917d8">
++        <omgdi:waypoint x="200.0" y="250.0"/>
++        <omgdi:waypoint x="280.0" y="260.0"/>
++      </bpmndi:BPMNEdge>
++      <bpmndi:BPMNShape id="shape-b2594cb9-f090-4c30-9e42-22b1bb50e44b" bpmnElement="sid-90bb0d22-d2d4-4eb6-9a6d-b23f2cdc8688">
++        <omgdc:Bounds x="460.0" y="245.00002" width="30.0" height="30.0"/>
++      </bpmndi:BPMNShape>
++      <bpmndi:BPMNShape id="shape-0e17274a-0b5e-4af1-ab3a-ec1d4ba0f69d" bpmnElement="sid-151f4d8a-18ef-45d8-a566-77906a9027a9">
++        <omgdc:Bounds x="280.0" y="220.0" width="100.0" height="80.0"/>
++      </bpmndi:BPMNShape>
++      <bpmndi:BPMNEdge id="edge-eab3ff97-bcca-4207-b64f-83942aa8e266" bpmnElement="sid-28703b8d-28d0-4d47-a6cc-b0ac7c6b1869">
++        <omgdi:waypoint x="380.0" y="260.0"/>
++        <omgdi:waypoint x="460.0" y="259.99997"/>
++      </bpmndi:BPMNEdge>
++    </bpmndi:BPMNPlane>
++  </bpmndi:BPMNDiagram>
++</definitions>
+Index: ../../.idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../.idea/vcs.xml b/../../.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1651936404128)
++++ b/../../.idea/vcs.xml	(date 1651936404128)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: ../../.idea/inspectionProfiles/Project_Default.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../../.idea/inspectionProfiles/Project_Default.xml b/../../.idea/inspectionProfiles/Project_Default.xml
+new file mode 100644
+--- /dev/null	(date 1651936403982)
++++ b/../../.idea/inspectionProfiles/Project_Default.xml	(date 1651936403982)
+@@ -0,0 +1,36 @@
++<component name="InspectionProjectProfileManager">
++  <profile version="1.0">
++    <option name="myName" value="Project Default" />
++    <inspection_tool class="JavaDoc" enabled="true" level="WARNING" enabled_by_default="true">
++      <option name="TOP_LEVEL_CLASS_OPTIONS">
++        <value>
++          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
++          <option name="REQUIRED_TAGS" value="" />
++        </value>
++      </option>
++      <option name="INNER_CLASS_OPTIONS">
++        <value>
++          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
++          <option name="REQUIRED_TAGS" value="" />
++        </value>
++      </option>
++      <option name="METHOD_OPTIONS">
++        <value>
++          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
++          <option name="REQUIRED_TAGS" value="@return@param@throws or @exception" />
++        </value>
++      </option>
++      <option name="FIELD_OPTIONS">
++        <value>
++          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
++          <option name="REQUIRED_TAGS" value="" />
++        </value>
++      </option>
++      <option name="IGNORE_DEPRECATED" value="false" />
++      <option name="IGNORE_JAVADOC_PERIOD" value="true" />
++      <option name="IGNORE_DUPLICATED_THROWS" value="false" />
++      <option name="IGNORE_POINT_TO_ITSELF" value="false" />
++      <option name="myAdditionalJavadocTags" value="date" />
++    </inspection_tool>
++  </profile>
++</component>
+\ No newline at end of file

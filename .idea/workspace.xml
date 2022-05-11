@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76fb5e7f-7853-43a4-996b-2afcf3c4eb80" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ScriptEngineDemo/src/main/java/FirstJavaScript.java" beforeDir="false" afterPath="$PROJECT_DIR$/ScriptEngineDemo/src/main/java/FirstJavaScript.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="28XeaUdHuaQJHCjG9iwHGErqjRV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ScriptEngineDemo/src/main/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\01.Project\Java\LearnDemo\ScriptEngineDemo\src\main\java" />
+      <recent name="E:\01.Project\Java\LearnDemo\ActivitiDemo\ActivitiScriptDemo\src\main\resources\processes" />
+      <recent name="E:\01.Project\Java\LearnDemo\ActivitiDemo\ActivitiScriptDemo\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FirstJavaScript">
+    <configuration name="FirstJavaScript" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirstJavaScript" />
+      <module name="ScriptEngineDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ActivitiScriptDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.activiti.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.activiti.MyApp" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Spring Boot.MyApp" />
+      <item itemvalue="Application.FirstJavaScript" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FirstJavaScript" />
+        <item itemvalue="Spring Boot.MyApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76fb5e7f-7853-43a4-996b-2afcf3c4eb80" name="Changes" comment="" />
+      <created>1651367423824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651367423824</updated>
+      <workItem from="1651367426225" duration="6540000" />
+      <workItem from="1651374044404" duration="152000" />
+      <workItem from="1651374222207" duration="839000" />
+      <workItem from="1651375105023" duration="4098000" />
+      <workItem from="1651417933367" duration="4396000" />
+      <workItem from="1651592612519" duration="1719000" />
+      <workItem from="1651728494762" duration="5687000" />
+      <workItem from="1651934474747" duration="1436000" />
+      <workItem from="1651936347104" duration="57000" />
+      <workItem from="1652271129904" duration="952000" />
+    </task>
+    <task id="LOCAL-00001" summary="firstCommit：&#10;基础的流程，后续在此基础上进行增改。">
+      <created>1651372467162</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651372467162</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ScriptTask Commit：&#10;修改对应的流程">
+      <created>1651376102361</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651376102361</updated>
+    </task>
+    <task id="LOCAL-00003" summary="TaskListener Commit：&#10;修改对应的流程">
+      <created>1651749428520</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651749428520</updated>
+    </task>
+    <task id="LOCAL-00004" summary="executionListener Commit：&#10;修改对应的流程">
+      <created>1651750567755</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1651750567755</updated>
+    </task>
+    <task id="LOCAL-00005" summary="expression Commit：&#10;修改对应的流程">
+      <created>1651751455752</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1651751455752</updated>
+    </task>
+    <task id="LOCAL-00006" summary="scriptTask Commit：&#10;修改对应的流程">
+      <created>1651752413730</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1651752413730</updated>
+    </task>
+    <task id="LOCAL-00007" summary="新建ScriptEngine工程">
+      <created>1652271705381</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1652271705381</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="firstCommit：&#10;基础的流程，后续在此基础上进行增改。" />
+    <MESSAGE value="ScriptTask Commit：&#10;修改对应的流程" />
+    <MESSAGE value="TaskListener Commit：&#10;修改对应的流程" />
+    <MESSAGE value="executionListener Commit：&#10;修改对应的流程" />
+    <MESSAGE value="expression Commit：&#10;修改对应的流程" />
+    <MESSAGE value="scriptTask Commit：&#10;修改对应的流程" />
+    <MESSAGE value="新建ScriptEngine工程" />
+    <option name="LAST_COMMIT_MESSAGE" value="新建ScriptEngine工程" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../02.Maven/org/activiti/activiti-engine/7.1.0.M5/activiti-engine-7.1.0.M5.jar!/org/activiti/engine/impl/bpmn/behavior/ScriptTaskActivityBehavior.class</url>
+          <line>56</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
