@@ -1,7 +1,6 @@
 import com.alibaba.fastjson.JSONObject;
 import delight.nashornsandbox.NashornSandbox;
 import delight.nashornsandbox.NashornSandboxes;
-import netscape.javascript.JSObject;
 
 import javax.script.*;
 import java.io.*;
@@ -38,8 +37,8 @@ public class FirstJavaScript {
     sandbox.setExecutor(Executors.newSingleThreadExecutor());// 指定执行程序服务，该服务用于在CPU时间运行脚本
         sandbox.allow(ProcessBuilder.class);
 
+        out.println(  sandbox.eval(jsf1));
 
-        sandbox.eval(jsf1);
     }
 
 }
