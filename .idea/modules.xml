@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ActivitiDemo/ActivitiScriptDemo/ActivitiScriptDemo.iml" filepath="$PROJECT_DIR$/ActivitiDemo/ActivitiScriptDemo/ActivitiScriptDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LearnDemo.iml" filepath="$PROJECT_DIR$/.idea/LearnDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MySerialDemo/MySerialDemo/MySerialDemo.iml" filepath="$PROJECT_DIR$/MySerialDemo/MySerialDemo/MySerialDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ScriptEngineDemo/ScriptEngineDemo.iml" filepath="$PROJECT_DIR$/ScriptEngineDemo/ScriptEngineDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SerialDemo/SerialDemo/SerialDemo.iml" filepath="$PROJECT_DIR$/SerialDemo/SerialDemo/SerialDemo.iml" />
     </modules>
   </component>
 </project>

@@ -5,10 +5,11 @@
       <list>
         <option value="$PROJECT_DIR$/ScriptEngineDemo/pom.xml" />
         <option value="$PROJECT_DIR$/ActivitiDemo/ActivitiScriptDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/MySerialDemo/MySerialDemo/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="11" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
