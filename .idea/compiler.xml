@@ -12,9 +12,9 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="ActivitiScriptDemo" target="1.5" />
-      <module name="MySerialDemo" target="1.8" />
-      <module name="ScriptEngineDemo" target="1.8" />
+      <module name="ActivitiScriptDemo" target="1.8" />
+      <module name="MySerialDemo" target="8" />
+      <module name="ScriptEngineDemo" target="8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

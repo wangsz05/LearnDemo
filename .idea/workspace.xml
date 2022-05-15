@@ -5,26 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76fb5e7f-7853-43a4-996b-2afcf3c4eb80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_24.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySerialDemo/MySerialDemo/MySerialDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySerialDemo/MySerialDemo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySerialDemo/MySerialDemo/src/main/java/MySerialDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScriptEngineDemo/src/main/java/FirstJavaScriptJS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_78.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_3_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySerialDemo/MySerialDemo/src/main/java/Evil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySerialDemo/MySerialDemo/src/main/java/TestUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySerialDemo/MySerialDemo/src/main/java/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySerialDemo/MySerialDemo/src/main/java/UserFastJson.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_58.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_24.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_24.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_json_javax_json_api_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_json_javax_json_api_1_0.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javadelight_delight_nashorn_sandbox_0_2_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javadelight_delight_nashorn_sandbox_0_2_5.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bower_js_beautify_1_9_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bower_js_beautify_1_9_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScriptEngineDemo/ScriptEngineDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ScriptEngineDemo/ScriptEngineDemo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScriptEngineDemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ScriptEngineDemo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScriptEngineDemo/src/main/java/FirstJavaScript.java" beforeDir="false" afterPath="$PROJECT_DIR$/ScriptEngineDemo/src/main/java/FirstJavaScript.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScriptEngineDemo/target/classes/FirstJavaScript.class" beforeDir="false" afterPath="$PROJECT_DIR$/ScriptEngineDemo/target/classes/FirstJavaScript.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySerialDemo/MySerialDemo/MySerialDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MySerialDemo/MySerialDemo/MySerialDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySerialDemo/MySerialDemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MySerialDemo/MySerialDemo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySerialDemo/MySerialDemo/src/main/java/MySerialDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/MySerialDemo/MySerialDemo/src/main/java/MySerialDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +33,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -55,6 +55,10 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://D:/Program Files/Java/jdk1.8.0_321/src.zip!/java/io/PrintStream.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://D:/Program Files/Java/jdk1.8.0_321/src.zip!/com/sun/corba/se/impl/io/ObjectStreamClass.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -73,21 +77,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "E:/MyProject/LearnDemo/MySerialDemo/MySerialDemo/src",
-    "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "inlay.hints",
-    "spring.configuration.checksum": "3a8dff779e1c349930dc047578fe9b65"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\MyProject\LearnDemo\MySerialDemo\MySerialDemo\src" />
@@ -96,20 +94,17 @@
       <recent name="E:\01.Project\Java\LearnDemo\ActivitiDemo\ActivitiScriptDemo\src\main\resources\processes" />
       <recent name="E:\01.Project\Java\LearnDemo\ActivitiDemo\ActivitiScriptDemo\src\main" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.MySerialDemo">
-    <configuration name="FirstJavaScript" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="FirstJavaScript" />
-      <module name="ScriptEngineDemo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MySerialDemo">
     <configuration name="FirstJavaScriptJS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FirstJavaScriptJS" />
       <module name="ScriptEngineDemo" />
@@ -119,6 +114,13 @@
     </configuration>
     <configuration name="MySerialDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MySerialDemo" />
+      <module name="MySerialDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestUser" />
       <module name="MySerialDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -146,31 +148,29 @@
     </configuration>
     <configuration name="MyApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="ActivitiScriptDemo" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="org.activiti.MyApp" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.activiti.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.activiti.MyApp" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.FirstJavaScriptJS" />
+      <item itemvalue="Application.MySerialDemo" />
+      <item itemvalue="Application.main.java.FirstJavaScript" />
+      <item itemvalue="Application.TestUser" />
       <item itemvalue="Spring Boot.MyApp" />
-      <item itemvalue="应用程序.Unnamed" />
-      <item itemvalue="应用程序.MySerialDemo" />
-      <item itemvalue="应用程序.main.java.FirstJavaScript" />
-      <item itemvalue="应用程序.FirstJavaScriptJS" />
-      <item itemvalue="应用程序.FirstJavaScript" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.MySerialDemo" />
-        <item itemvalue="应用程序.main.java.FirstJavaScript" />
-        <item itemvalue="应用程序.FirstJavaScript" />
-        <item itemvalue="应用程序.FirstJavaScriptJS" />
+        <item itemvalue="Application.MySerialDemo" />
+        <item itemvalue="Application.TestUser" />
         <item itemvalue="Spring Boot.MyApp" />
       </list>
     </recent_temporary>
@@ -196,6 +196,7 @@
       <workItem from="1652491757234" duration="5324000" />
       <workItem from="1652515530435" duration="11029000" />
       <workItem from="1652535651576" duration="5446000" />
+      <workItem from="1652618810832" duration="4701000" />
     </task>
     <task id="LOCAL-00001" summary="firstCommit：&#10;基础的流程，后续在此基础上进行增改。">
       <created>1651372467162</created>
@@ -363,6 +364,26 @@
           <line>32</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MySerialDemo/MySerialDemo/src/main/java/User.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MySerialDemo/MySerialDemo/src/main/java/TestUser.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../02.Maven/com/alibaba/fastjson/1.2.24/fastjson-1.2.24.jar!/com/alibaba/fastjson/util/JavaBeanInfo.class</url>
+          <line>116</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../02.Maven/com/alibaba/fastjson/1.2.24/fastjson-1.2.24-sources.jar!/com/alibaba/fastjson/serializer/JavaBeanSerializer.java</url>
+          <line>438</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/ScriptEngineDemo/src/main/java/FirstJavaScript.java</url>
           <line>10</line>
@@ -381,6 +402,11 @@
         <PinnedItemInfo parentTag="jdk.nashorn.internal.IntDeque" memberName="deque" />
       </pinned-members>
     </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="inputStream" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

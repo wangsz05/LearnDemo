@@ -14,5 +14,10 @@
     <orderEntry type="library" name="Maven: org.webjars.bower:js-beautify:1.9.0" level="project" />
     <orderEntry type="library" name="Maven: javax.json:javax.json-api:1.0" level="project" />
     <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.24" level="project" />
+    <orderEntry type="library" name="Maven: org.testng:testng:7.5" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.findbugs:jsr305:3.0.1" level="project" />
+    <orderEntry type="library" name="Maven: com.beust:jcommander:1.78" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.webjars:jquery:3.5.1" level="project" />
+    <orderEntry type="library" name="Maven: org.projectlombok:lombok:1.18.24" level="project" />
   </component>
 </module>
