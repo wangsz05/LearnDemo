@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="UploadDemo:war">
+    <output-path>$PROJECT_DIR$/UploadDemo/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>UploadDemo</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="UploadDemo.war">
+      <element id="artifact" artifact-name="UploadDemo:war exploded" />
+    </root>
+  </artifact>
+</component>

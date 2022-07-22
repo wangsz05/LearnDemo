@@ -2,19 +2,24 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="MySerialDemo" />
+        <module name="UploadDemo" />
+        <module name="MemShellDemo" />
         <module name="ActivitiScriptDemo" />
         <module name="ScriptEngineDemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ActivitiScriptDemo" target="1.8" />
+      <module name="MemShellDemo" target="1.7" />
       <module name="MySerialDemo" target="8" />
       <module name="ScriptEngineDemo" target="8" />
+      <module name="UploadDemo" target="1.7" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

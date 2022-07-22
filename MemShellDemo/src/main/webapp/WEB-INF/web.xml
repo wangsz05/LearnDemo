@@ -6,6 +6,14 @@
   <display-name>Archetype Created Web Application</display-name>
 
 
+  <listener>
+    <listener-class>com.my.test.TestListener</listener-class>
+  </listener>
+
+
+  <!--filter-mapping  配置DispatcherServlet，表示该工程采用SpringMVC的方式，启动时会默认的在/WEB-INF/目录下查找xxx-servlet.xml作为配置文件，-->
+  <!--  xxx就是DispatcherServlet的名字。该文件中将作为配置两项最重要的mvc特性，HandlerMapping,负责DispatcherServlet合格前端控制器的请求查找-->
+  <!--  Controller 。负责为DispatcherServlet查找ModelAndView的试图-->
   <filter>
     <filter-name>TestFilter</filter-name>
     <filter-class>com.my.test.TestFilter</filter-class>
@@ -14,6 +22,36 @@
     <filter-name>TestFilter</filter-name>
     <url-pattern>/*</url-pattern>
   </filter-mapping>
+
+
+  <servlet>
+    <servlet-name>dispatcherServlet</servlet-name>
+    <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>testHttpServelet</servlet-name>
+    <servlet-class>com.my.test.TestHttpServelet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>testServlet</servlet-name>
+    <servlet-class>com.my.test.testServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>dispatcherServlet</servlet-name>
+    <url-pattern>/</url-pattern>
+  </servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>testServlet</servlet-name>
+    <url-pattern>/testservlet</url-pattern>
+  </servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>testHttpServelet</servlet-name>
+    <url-pattern>/testhttp</url-pattern>
+  </servlet-mapping>
+
+
 </web-app>
 
 

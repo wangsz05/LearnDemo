@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MemShellDemo:war">
+    <output-path>$PROJECT_DIR$/MemShellDemo/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>MemShellDemo</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="MemShellDemo.war">
+      <element id="artifact" artifact-name="MemShellDemo:war exploded" />
+    </root>
+  </artifact>
+</component>

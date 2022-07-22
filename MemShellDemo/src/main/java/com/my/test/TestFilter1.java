@@ -1,15 +1,12 @@
 package com.my.test;
 
-import org.springframework.stereotype.Component;
-
 import javax.servlet.*;
-import javax.servlet.annotation.WebFilter;
 import java.io.IOException;
 
-public class TestFilter implements Filter {
+public class TestFilter1 implements Filter {
     @Override
     public void init(FilterConfig filterConfig) throws ServletException {
-        System.out.println("filter初始化");
+        System.out.println("filter1 the second初始化");
     }
 
 

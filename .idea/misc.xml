@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/MemShellDemo" />
+    <file type="web" url="file://$PROJECT_DIR$/UploadDemo" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/ScriptEngineDemo/pom.xml" />
         <option value="$PROJECT_DIR$/ActivitiDemo/ActivitiScriptDemo/pom.xml" />
         <option value="$PROJECT_DIR$/MySerialDemo/MySerialDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/MemShellDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/UploadDemo/pom.xml" />
       </list>
     </option>
   </component>
