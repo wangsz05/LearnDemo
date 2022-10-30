@@ -1,0 +1,1 @@
+[Fastjson1.2.80漏洞复现](https://hosch3n.github.io/2022/09/01/Fastjson1-2-80%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0/)
