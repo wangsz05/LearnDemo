@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: info.picocli:picocli:4.6.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../02.Maven/info/picocli/picocli/4.6.3/picocli-4.6.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../02.Maven/info/picocli/picocli/4.6.3/picocli-4.6.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../02.Maven/info/picocli/picocli/4.6.3/picocli-4.6.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

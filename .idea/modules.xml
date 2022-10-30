@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ActivitiDemo/ActivitiScriptDemo/ActivitiScriptDemo.iml" filepath="$PROJECT_DIR$/ActivitiDemo/ActivitiScriptDemo/ActivitiScriptDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FastJson/FastjsonVulns-main/FastjsonVulns.iml" filepath="$PROJECT_DIR$/FastJson/FastjsonVulns-main/FastjsonVulns.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LearnDemo.iml" filepath="$PROJECT_DIR$/.idea/LearnDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/MemShellDemo/MemShellDemo.iml" filepath="$PROJECT_DIR$/MemShellDemo/MemShellDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/MySerialDemo/MySerialDemo/MySerialDemo.iml" filepath="$PROJECT_DIR$/MySerialDemo/MySerialDemo/MySerialDemo.iml" />

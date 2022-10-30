@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="MySerialDemo" />
         <module name="UploadDemo" />
+        <module name="FastjsonVulns" />
         <module name="MemShellDemo" />
         <module name="ActivitiScriptDemo" />
         <module name="ScriptEngineDemo" />
@@ -16,6 +17,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ActivitiScriptDemo" target="1.8" />
+      <module name="FastjsonVulns" target="8" />
       <module name="MemShellDemo" target="1.7" />
       <module name="MySerialDemo" target="8" />
       <module name="ScriptEngineDemo" target="8" />

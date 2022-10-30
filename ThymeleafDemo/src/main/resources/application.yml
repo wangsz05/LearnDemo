@@ -1,0 +1,10 @@
+# 配置端口
+server:
+  port: 9090
+#spring:
+#  mvc:
+#    view:
+#      prefix: classpath:/templates/
+#
+#      suffix: .html
+

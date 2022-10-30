@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.ant:ant-junit:1.10.12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../02.Maven/org/apache/ant/ant-junit/1.10.12/ant-junit-1.10.12.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../02.Maven/org/apache/ant/ant-junit/1.10.12/ant-junit-1.10.12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../02.Maven/org/apache/ant/ant-junit/1.10.12/ant-junit-1.10.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
